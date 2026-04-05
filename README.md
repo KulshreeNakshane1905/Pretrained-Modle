@@ -15,17 +15,7 @@
 
 ---
 
-## 👤 Student Details
 
-| Field | Details |
-|---|---|
-| **Student Name** | Kulshree Sanjay Nakshane |
-| **Student ID** | 202301040299 |
-| **Course** | Deep Learning |
-| **Date** | 05/04/2026 |
-| **Group Members** | Preeti Koli, Vaishnavi Thorave, Sakshi Bhingarkar |
-
----
 
 ## 👥 Group Members
 
