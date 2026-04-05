@@ -259,7 +259,7 @@ DOI: https://doi.org/10.1109/ACCESS.2024.3430109
 
 - [x] Research paper details and summary (IEEE Access 2024)  
 - [x] Code file (Local Notebook / .ipynb)  
-- [x] Dataset link and description (Roboflow)  
+- [x] Dataset link and description 
 - [x] Visualizations:
   - Feature maps  
   - Training curves  
